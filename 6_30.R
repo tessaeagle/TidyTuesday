@@ -1,18 +1,9 @@
 install.packages("githubinstall")
 install.packages("devtools")
 install.packages("ggimage")
-install.packages("png")
-install.packages("raster")
-install.packages("mgsub")
 library(devtools)
 library(tidyverse)
 library(RColorBrewer)
-library(ggimage)
-library(png)
-library(raster)
-library(ggplot2)
-library(grid)
-library(mgsub)
 
 
 character_visualization <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-06-30/character_visualization.csv')
