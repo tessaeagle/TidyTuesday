@@ -82,5 +82,5 @@ plot <- cowplot::ggdraw(p) +
  draw_label(label = "Species", x = 0, y = .5, hjust = .5, vjust = 1.3, angle = 90,
                   size = 16, fontface = "bold", color = "white")
 
-ggsave("C:/users/eagle/Desktop/R/TidyTuesday/7_28.png", plot)
+ggsave("7_28.png", plot)
 
