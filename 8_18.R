@@ -30,7 +30,7 @@ df <- df %>% mutate(country = case_when(country=="United States" ~ "USA",
                                   country=="Viet Nam" ~ "Vietnam",
                                   country=="Trinidad and Tobago" ~ "Trinidad",
                                   country=="Saint Helena, Ascension and Tristan da Cunha" ~ "Saint Helena",
-                                  country=="Côte d'Ivoire" ~ "Ivory Coast",
+                                  country=="CÃ´te d'Ivoire" ~ "Ivory Coast",
                                   country=="Cabo Verde" ~ "Cape Verde",
                                   country=="Congo" ~ "Democratic Republic of the Congo",
                                   TRUE ~ as.character(country)))
@@ -120,5 +120,5 @@ p <- ggarrange(p1 , p2, ncol = 1, nrow = 2,
 plot <- cowplot::ggdraw(p) + 
   theme(plot.background = element_rect(fill="#3d4e70", color = NA))
 
-ggsave("C:/users/eagle/Desktop/R/TidyTuesday/8_18.png", plot)
+ggsave("8_18.png", plot)
 
