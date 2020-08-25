@@ -3,6 +3,10 @@
 Repository of R4DS TidyTuesday attempts
 
 ## 2020
+### Week 35
+![alt text](https://github.com/tessaeagle/TidyTuesday/blob/master/8_25_wordcloud.png "Week35_Chopped")
+![alt text](https://github.com/tessaeagle/TidyTuesday/blob/master/8_25_Lollipop.png "Week35_Lollipop")
+
 ### Week 34
 ![alt text](https://github.com/tessaeagle/TidyTuesday/blob/master/8_18.png "Week34")
 
