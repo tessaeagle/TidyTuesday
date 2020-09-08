@@ -34,7 +34,7 @@ p <- ggplot(df2, aes(fill = speaker, values = freq))+
     legend.margin=margin(t = -.5, unit='cm'),
     panel.spacing = unit(-.1, "lines"),
     plot.margin = unit(c(6,6,6,6), "lines"),
-    plot.title = element_text(size = 13, face = "bold", vjust = -.1)
+    plot.title = element_text(size = 13, face = "bold", hjust = .5, color = "#e8d697", vjust = -.1)
     )+
   labs(
     title = "Which Friend Talked the Most?"
