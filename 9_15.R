@@ -4,8 +4,6 @@ library(rgdal)
 library(broom)
 library(rgeos)
 library(viridis)
-library(magick)
-
 
 # Load TT Data ------------------------------------------------------------
 tuesdata <- tidytuesdayR::tt_load(2020, week = 38)
@@ -28,10 +26,7 @@ spdf_fortified <- broom::tidy(spdf, region = "google_name")
 #Determine centers for labels
 centers <- cbind.data.frame(data.frame(gCentroid(spdf, byid=TRUE), id=spdf@data$iso3166_2))
 
-
-
-#snap benefits per child
-
+#filter for SNAP
 df <- kids %>%
   filter(variable == "SNAP")
 
