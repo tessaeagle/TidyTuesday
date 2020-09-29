@@ -3,6 +3,9 @@
 Repository of R4DS TidyTuesday attempts
 
 ## 2020
+### Week 40
+![alt text](https://github.com/tessaeagle/TidyTuesday/blob/master/9_29.png "Week40")
+
 ### Week 38
 ![](https://github.com/tessaeagle/TidyTuesday/blob/master/9_15_gif.gif)
 
