@@ -3,7 +3,7 @@
 Repository of R4DS TidyTuesday attempts
 
 ## 2021
-### Week 1 [Code](https://github.com/tessaeagle/TidyTuesday/blob/master/2021/1_5_21.R)
+### Week 1 [(Code)](https://github.com/tessaeagle/TidyTuesday/blob/master/2021/1_5_21.R)
 ![alt text](https://github.com/tessaeagle/TidyTuesday/blob/master/2021/1_5.png "Week1_21")
 
 ## 2020
