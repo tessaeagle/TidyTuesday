@@ -1,6 +1,6 @@
 # TidyTuesday
 
-Repository of R4DS TidyTuesday attempts
+Repository of R4DS TidyTuesday attempts starting June 2020 in attempts to teach myself R data visualization and wrangling
 
 ## 2021
 ### Week 1 [(Code)](https://github.com/tessaeagle/TidyTuesday/blob/master/2021/1_5_21.R)
