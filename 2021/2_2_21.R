@@ -37,7 +37,7 @@ every year since 1976."
     plot.title = element_text(size = 20, hjust = .5, face = "bold"),
     plot.subtitle = element_markdown()
   )+
-  geom_rect(data = df, aes(xmin = max(Females) * 1.09, xmax = max(Females) * 1.13, ymin = -Inf, ymax = Inf), fill = "#a7b7c4")+
+  geom_rect(data = df, aes(xmin = max(Females) * 1.09, xmax = max(Females) * 1.13, ymin = -Inf, ymax = Inf), fill = "#c5d6e3")+
   geom_text(data = df, aes(label = paste0(round(percFem), "%"), y = Year, x = max(Females) * 1.11), fontface = "bold", size = 2.5, color = "#F18F01")+
   geom_text(data = filter(df, Year == 2015), aes(x = max(Females) * 1.244, y = Year, label = "% F"), color = "black", size = 2.5, vjust = -1.3, fontface = "bold") 
 
