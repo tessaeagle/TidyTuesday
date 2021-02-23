@@ -3,6 +3,7 @@ library(gt)
 
 earn <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2021/2021-02-23/earn.csv')
 
+#code help from Thomas Mock's post: https://themockup.blog/posts/2020-05-16-gt-a-grammer-of-tables/
 
 df <- earn %>%
   filter(sex != "Both Sexes" & race != "All Races") %>%
