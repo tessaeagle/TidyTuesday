@@ -22,7 +22,7 @@ lines <- df %>%
 p <- ggplot(df, aes(year, prop, fill = description))+
   geom_stream(color = "#c6c9cf", extra_span = .15, true_range = "none")+
   geom_vline(data = lines, aes(xintercept = year), linetype = "dotted", color = "#c6c9cf", size = .7)+
-  geom_stream_label(aes(label = tolower(description)), size = 4.5, type = "mirror", extra_span = .15)+
+  geom_stream_label(aes(label = tolower(description)), size = 3, type = "mirror", extra_span = .15)+
   scale_fill_brewer(palette = "YlOrRd")+
   scale_x_continuous(position = "top")+
   theme(
