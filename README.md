@@ -3,6 +3,9 @@
 Repository of R4DS TidyTuesday attempts starting June 2020 in attempts to teach myself R data visualization and wrangling
 
 ## 2021
+### Week 10 [(Code)](https://github.com/tessaeagle/TidyTuesday/blob/master/2021/3_2_21.R)
+![alt text](https://github.com/tessaeagle/TidyTuesday/blob/master/2021/3_2_21.png "A stream graph depicting characteristics of Superbowl ads from 2000-2020, including: animals, celebrity, danger, funny, patriotic, showing the product quickly, and sex. Each characteristic is indicated in a shade of red/orange on a navy background. Funny commercials make up a large proportion, same with quick product placement")
+
 ### Week 9 [(Code)](https://github.com/tessaeagle/TidyTuesday/blob/master/2021/2_23_21.R)
 ![alt text](https://github.com/tessaeagle/TidyTuesday/blob/master/2021/2_23_21.png "Week9_21")
 
