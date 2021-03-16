@@ -7,6 +7,9 @@ Repository of R4DS TidyTuesday attempts starting June 2020 in attempts to teach 
 ### Week 11 [(Code)](https://github.com/tessaeagle/TidyTuesday/blob/master/2021/3_9_21.R)
 ![alt text](https://github.com/tessaeagle/TidyTuesday/blob/master/2021/3_9_21.png "Week11_21")
 
+### Week 12 [(Code)](https://github.com/tessaeagle/TidyTuesday/blob/master/2021/3_16_21.R)
+![alt text](https://github.com/tessaeagle/TidyTuesday/blob/master/2021/3_16_21.png "A plot inspired by Atari breakout with rows of boxes on the top for each month of the year between 2012 and 2020. Each row of tiles is a year and each tile is a month. Each tile is filled to indicate the game that month that had the highest number of players playing the game at the same time (peak players). Dot 2 had the most months with the max peak players, at 68 months. The highest peak player count was over 3 million in January 2018 for PlayerUnknown's Battleground.")
+
 ### Week 10 [(Code)](https://github.com/tessaeagle/TidyTuesday/blob/master/2021/3_2_21.R)
 ![alt text](https://github.com/tessaeagle/TidyTuesday/blob/master/2021/3_2_21.png "A stream graph depicting characteristics of Superbowl ads from 2000-2020, including: animals, celebrity, danger, funny, patriotic, showing the product quickly, and sex. Each characteristic is indicated in a shade of red/orange on a navy background. Funny commercials make up a large proportion, same with quick product placement")
 
