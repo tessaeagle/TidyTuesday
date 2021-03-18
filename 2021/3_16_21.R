@@ -2,6 +2,7 @@
 
 library(tidyverse)
 library(ggpubr)
+library(extraFont)
 
 tuesdata <- tidytuesdayR::tt_load(2021, week = 12)
 games <- tuesdata$games
