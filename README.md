@@ -4,6 +4,9 @@ Repository of R4DS TidyTuesday attempts starting June 2020 in attempts to teach 
 
 
 ## 2021
+### Week 13 [(Code)](https://github.com/tessaeagle/TidyTuesday/blob/master/2021/3_23_21.R)
+![alt text](https://github.com/tessaeagle/TidyTuesday/blob/master/2021/3_23_21.gif "")
+
 ### Week 12 [(Code)](https://github.com/tessaeagle/TidyTuesday/blob/master/2021/3_16_21.R)
 ![alt text](https://github.com/tessaeagle/TidyTuesday/blob/master/2021/3_16_21.png "A plot inspired by Atari breakout with rows of boxes on the top for each month of the year between 2012 and 2020. Each row of tiles is a year and each tile is a month. Each tile is filled to indicate the game that month that had the highest number of players playing the game at the same time (peak players). Dot 2 had the most months with the max peak players, at 68 months. The highest peak player count was over 3 million in January 2018 for PlayerUnknown's Battleground.")
 
